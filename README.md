@@ -28,6 +28,7 @@ Load in the necessary packages
 ##     intersect, setdiff, setequal, union
 
 > library(lubridate)
+
 > library(ggplot2)
 # Loading and preprocessing the data
 Show any code that is needed to:
